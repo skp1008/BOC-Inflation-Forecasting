@@ -52,3 +52,4 @@ Combines **academic econometrics, central bank practice, and practical policy si
 By integrating Canadian data, Bayesian methods, and central-bank style communication, the project serves as both a forecasting system and a policy learning tool.
 
 
+
