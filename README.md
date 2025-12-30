@@ -1,6 +1,6 @@
 # Project Overview 📊
 
-A **Bayesian Vector Autoregression (BVAR)** model for Canadian inflation forecasting and optimal monetary policy path optimization. This project replicates Bank of Canada-style macroeconomic modeling to generate reliable CPI forecasts and recommend optimal interest rate paths that maintain the 2% inflation target.
+This project replicates Bank of Canada-style macroeconomic modeling to generate reliable CPI forecasts and recommend optimal interest rate paths that maintain the 2% inflation target. It uses a **Bayesian Vector Autoregression (BVAR)** model and **Monte Carlo** simulations to find the optimal monetary policy path.
 
 ## Objective 🎯
 
