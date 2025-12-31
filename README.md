@@ -9,6 +9,18 @@ Develop a comprehensive forecasting framework that:
 - **Simulates** policy responses to external shocks (trade wars, supply chain disruptions)
 - **Optimizes** interest rate paths to maintain stable, low, and predictable inflation
 
+## Results Summary 📊
+
+![Results](results.png)
+
+![Backtests](backtests.png)
+
+### Conclusion 💡
+
+Our model shows deflationary movement in the short term due to the impact of tariffs, which temporarily suppress price levels through reduced trade volumes and increased import costs. However, as the economy recovers and with the federal stimulus measures—including infrastructure spending, direct transfers to households, and business support programs that inject liquidity into the economy—our forecast shows inflation does restabilize to its target of 2%. 
+
+As such, our recommendations to the Bank of Canada as of November 2025 is to hold the current policy rate of 2.25%, and wait for further developments like trade policy changes or supply chain shocks. We also argue that the labour market, particularly the high unemployment rate, is a cyclical issue more than anything else, and that the Bank of Canada should allow it to run its cycle instead of cutting the rate now to try to control it.
+
 ## Project Steps 🔄
 
 ### 1. 📈 Data Collection
@@ -58,31 +70,6 @@ Develop a comprehensive forecasting framework that:
 - **Policy conditioning**: Exogenous interest rate paths for optimization
 - **Robust evaluation**: Out-of-sample testing with RMSE/MAE metrics
 
-## Results & Policy Recommendations 🎯
-
-**Model Performance:**
-- **RMSE**: 0.85-1.39 (excellent for 8-quarter forecasts)
-- **Coverage**: 100% of actual CPI within 80% confidence bands
-- **Shock response**: Accurately captures trade war effects (2018 tariffs)
-
-**Optimal Policy Path (8 quarters):**
-```
-[3.0%, 2.5%, 2.0%, 1.5%, 1.0%, 1.5%, 2.0%, 1.5%]
-```
-
-**Key Metrics:**
-- **Average CPI**: 2.02% (perfectly on target)
-- **Stability**: Low volatility in forecast path
-- **Predictability**: Narrow confidence intervals
-
-## Conclusion 💡
-
-The BVAR model successfully replicates Bank of Canada forecasting practices with:
-- **High accuracy** in out-of-sample CPI predictions
-- **Robust shock handling** for external economic disruptions  
-- **Optimal policy guidance** maintaining the 2% inflation target
-
-The recommended gradual easing followed by measured tightening provides the optimal balance of price stability and economic predictability for Canadian monetary policy.
 
 
 
