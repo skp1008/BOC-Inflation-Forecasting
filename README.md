@@ -11,8 +11,6 @@ Develop a comprehensive forecasting framework that:
 
 ## Results Summary 📊
 
-### Conclusion 💡
-
 Our model shows deflationary movement in the short term due to the impact of tariffs, which temporarily suppress price levels through reduced trade volumes and increased import costs. However, as the economy recovers and with the federal stimulus measures including infrastructure spending, direct transfers to households, and business support programs that inject liquidity into the economy, our forecast shows inflation does restabilize to its target of 2%. 
 
 As such, our recommendations to the Bank of Canada as of November 2025 is to hold the current policy rate of 2.25%, and wait for further developments like trade policy changes or supply chain shocks. We also argue that the labour market, particularly the high unemployment rate, is a cyclical issue more than anything else, and that the Bank of Canada should allow it to run its cycle instead of cutting the rate now to try to control it.
